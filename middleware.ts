@@ -16,7 +16,7 @@ const isProtectedRoute = createRouteMatcher(['dashboard(.*)', '/dashboard'])
 export default clerkMiddleware(async (auth, req) => {
   const { userId } = await auth();
   const { pathname, origin } = req.nextUrl;
-
+ 
   // If the user is not authenticated and trying to access a protected route
   if (!userId && isProtectedRoute(req)) {
     console.log('User not authenticated, redirecting to unauthorized');
