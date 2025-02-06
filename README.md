@@ -1,18 +1,18 @@
-# Studia.ai - AI-Powered Research Assistant
+# Echo AI - AI-Powered Trading
 
 
 <div align="center">
-  <img src="public/banner.png" alt="Studia.ai Architecture" width="800"/>
+  <img src="public/banner.png" alt="Echo AI Architecture" width="800"/>
 </div>
 
 
 
 ## Overview
-Studia.ai is a sophisticated AI agent platform built for research and blockchain development. It combines IBM watsonx.ai and Claude-3.5-Sonnet with specialized tools to provide intelligent responses and perform complex tasks through natural conversation.
+EchoAI is a next-generation AI-powered trading solution that leverages decentralized intelligence for automated, high-efficiency market strategies. Designed to optimize financial decision-making, EchoAI combines cutting-edge machine learning with blockchain security to enhance trading precision and adaptability.
 
 ## Key Features
 - 🤖 **Advanced AI Integration**
-  - IBM watsonx.ai Foundation Models
+  - DeepSeek R1 Foundation Models
   - Claude-3.5-Sonnet for natural language processing
   - Real-time streaming responses
   - Context-aware conversation management
@@ -50,8 +50,8 @@ Studia.ai is a sophisticated AI agent platform built for research and blockchain
   - Edge Runtime support
 
 - **AI/ML**
-  - IBM watsonx.ai
   - Anthropic's Claude-3.5-Sonnet
+  - DeepSeek R1
   - Custom LangGraph implementation
 
 ## Getting Started
