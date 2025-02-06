@@ -116,8 +116,8 @@ The application will be available at `http://localhost:3000`
 ## Support
 For support, please:
 - Open an issue in the GitHub repository
-- Join our community Discord
-- Follow us on X (Twitter) @StudiaAI
+- Join our community Discord: COMING SOON
+- Follow us on X (Twitter): https://x.com/echoai_protocol
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
