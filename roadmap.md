@@ -7,7 +7,7 @@
   - Portfolio management
   - Multi-signature support
   - Automated transaction scheduling
-
+ 
 - **AI Model Enhancements**
   - Integration of new AI models for improved performance
   - Custom model training for specific use cases
