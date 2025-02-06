@@ -69,8 +69,8 @@ EchoAI is a next-generation AI-powered trading solution that leverages decentral
 
 **1. Clone the repository**
 
-    git clone https://github.com/studia-ai/studia-ai.git
-    cd studia-ai
+    git clone https://github.com/echo-ai/echo-ai.git
+    cd echo-ai
 
 **2. Install dependencies**
 
