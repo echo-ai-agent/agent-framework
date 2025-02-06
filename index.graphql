@@ -8,5 +8,5 @@ schema
       "solana_tracker/index.graphql"
     ]
   ) {
-  query: Query
+  query: Query 
 }
